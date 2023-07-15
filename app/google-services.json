@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "357822750293",
+    "project_id": "dummylet-stour",
+    "storage_bucket": "dummylet-stour.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357822750293:android:008376fe9cb4f9cef73edc",
+        "android_client_info": {
+          "package_name": "com.example.dummyletstour"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357822750293-n4geian03i230ub1kv3jbnqjphs0appd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8EvEd0iP3NzsckX8lXikOp0BCZAaBwC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357822750293-n4geian03i230ub1kv3jbnqjphs0appd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
